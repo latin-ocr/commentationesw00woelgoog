@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./commentationesw00woelgoog_0298.png"; bbox 0 0 2986 5002; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 282 1505 1177 1618">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 282 1426 1177 1618">
+     <span class='ocr_line' id='line_1_1' title="bbox 282 1505 1177 1618; baseline 0 -3"><span class='ocrx_word' id='word_1_1' title='bbox 282 1506 404 1617; x_wconf 60' lang='lat' dir='ltr'>Das</span> <span class='ocrx_word' id='word_1_2' title='bbox 441 1506 551 1618; x_wconf 70' lang='grc' dir='ltr'>ΜΟ</span> <span class='ocrx_word' id='word_1_3' title='bbox 590 1506 852 1618; x_wconf 71' lang='lat' dir='ltr'><strong>CASSIUS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 889 1505 1177 1617; x_wconf 66' lang='lat' dir='ltr'>BERJOHT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 118 2047 1341 2171">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 118 2047 1341 2171">
+     <span class='ocr_line' id='line_1_2' title="bbox 118 2047 1341 2171; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 118 2061 681 2171; x_wconf 78' lang='lat' dir='ltr'>SEESOHLAOHT</span> <span class='ocrx_word' id='word_1_6' title='bbox 732 2061 883 2171; x_wconf 71' lang='lat' dir='ltr'>DES</span> <span class='ocrx_word' id='word_1_7' title='bbox 931 2063 982 2170; x_wconf 83' lang='lat' dir='ltr'>D</span> <span class='ocrx_word' id='word_1_8' title='bbox 1033 2047 1341 2171; x_wconf 69' lang='lat' dir='ltr'>BRUTUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 420 2424 1039 2521">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 420 2424 1039 2521">
+     <span class='ocr_line' id='line_1_3' title="bbox 420 2424 1039 2521; baseline -0.003 0"><span class='ocrx_word' id='word_1_9' title='bbox 420 2425 609 2521; x_wconf 81' lang='lat' dir='ltr'><strong>GEGEN</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 643 2426 747 2521; x_wconf 7' lang='lat' dir='ltr'>DIE!</span> <span class='ocrx_word' id='word_1_11' title='bbox 770 2424 1039 2521; x_wconf 81' lang='lat' dir='ltr'>VENETER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 526 2933 1108 3052">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 526 2933 1108 3052">
+     <span class='ocr_line' id='line_1_4' title="bbox 526 2933 1108 3052; baseline -0.005 -17"><span class='ocrx_word' id='word_1_12' title='bbox 526 2970 596 3037; x_wconf 62' lang='grc' dir='ltr'>ΒΕ.</span> <span class='ocrx_word' id='word_1_13' title='bbox 622 2970 658 3037; x_wconf 83' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_14' title='bbox 687 2969 934 3035; x_wconf 74' lang='lat' dir='ltr'><strong>MELBER.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1002 3047 1005 3052; x_wconf 42' lang='grc'>,</span> <span class='ocrx_word' id='word_1_16' title='bbox 1106 2933 1108 2936; x_wconf 69' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1498 5002">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1498 5002">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1498 5002; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1498 5002; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
